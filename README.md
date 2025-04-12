@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sahil Sukhawani
 - 👀 I’m interested in UI-UX Design, Web Development, Android/Ios Development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on Reactjs
 - 📫 How to reach me - ssukhawani@gmail.com
 
 <!---
